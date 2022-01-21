@@ -79,7 +79,7 @@
 
             </com.google.android.material.textfield.TextInputLayout>
 
-            <TextView
+            <ImageView
                 android:layout_width="8dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.5"
@@ -136,7 +136,7 @@
             android:layout_marginBottom="10dp"
             android:text="Today's Weather Forecast"
             android:textColor="@color/white"
-            android:layout_above="@id/idRvWeather"
+            android:layout_above="@id/idRVWeather"
             android:textStyle="bold"
             />
 
